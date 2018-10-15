@@ -4,7 +4,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/dro3/z1cdofo4ft10.gif'
 		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
-		, ico: 'ma'
+		, ico: 'iq'
 		, info: '😔 آلقلۆب آلطيبهہَ مظلـوُمهہَ دآئما ، لآنهَا آسّرعْ مـٓن يفَتّح الآبوُآبْ ، وَ آوُل من يتلقّى آلضّرَبآتْ .. ! '
 		, id: '9'
 }
@@ -14,7 +14,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'https://galychat.com/sico/z1cprud8ln10.jpg'
-		, ico: ''
+		, ico: 'iq'
 		, info: 'لَدِيِّنِأّ تّأّريِّخَ #أّذّأّ ذّګر#يِّمََّسحٌ مَأّضّيِّګ الشمس🌞 والقمر🌕 كوكبان✌وكلام🔇 الناس👥 وحذائي👞 توؤمان✌ فديته'
 		, id: '9'
 }
@@ -24,7 +24,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'https://galychat.com/sico/z1cprucec110.jpg'
-		, ico: ''
+		, ico: 'us'
 		, info: '　　　　　　　　　 \'　　　 　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　　　　　　　　 　　 　　 　　　　　　　　　　　　　آنمآ آلُِعٍيوُن تحٍڪي مآ لُِآ يقٌآل'
 		, id: '9'
 }
@@ -34,7 +34,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'https://galychat.com/sico/z1cpruchdh10.jpg'
-		, ico: ''
+		, ico: 'kw'
 		, info: 'بلاء الإنسان من اللسان'
 		, id: '9'
 }
@@ -44,7 +44,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'https://galychat.com/sico/z1cpruckkk10.jpg'
-		, ico: ''
+		, ico: 'iq'
 		, info: 'اني لا ذهب ولا ماس اني عراقيه رفعة راس  '
 		, id: '9'
 }
@@ -54,7 +54,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi67itf10.jpg'
-		, ico: ''
+		, ico: 'gb'
 		, info: 'ظحكاتي لو كلهن صدك جاصرت رب العافيه '
 		, id: '9'
 }
@@ -64,7 +64,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi6g9p710.jpg'
-		, ico: ''
+		, ico: 'iq'
 		, info: '　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　مّــ،ـــآإْخٰــ’ـــاٰإوــي’آلــٰ’ـــرخـ،ٍٰـــاآصـ　　　　　　　　　　　　　　　　　　　　　　　　 '
 		, id: '9'
 }
@@ -74,7 +74,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi6egn310.jpg'
-		, ico: ''
+		, ico: 'sa'
 		, info: 'بلاء .. تعبتـج يَ روحـي ويـاي '
 		, id: '9'
 }
@@ -90,7 +90,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi5n4dg10.jpg'
-		, ico: ''
+		, ico: 'ae'
 		, info: 'بلاء .. تعبتـج يَ روحـي ويـاي '
 		, id: '9'
 }
@@ -100,7 +100,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'https://galychat.com/sico/z1cprudful10.jpg'
-		, ico: ''
+		, ico: 'nl'
 		, info: '…'
 		, id: '9'
 }
@@ -110,7 +110,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi5unuj10.jpg'
-		, ico: ''
+		, ico: 'iq'
 		, info: ' (عضو جديد) '
 		, id: '9'
 }
@@ -126,7 +126,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: ''
-		, ico: ''
+		, ico: 'it'
 		, info: 'اذا لم تسطيع اصلاح نفسك حاول افساد الاخرين '
 		, id: '9'
 }
@@ -136,7 +136,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: ''
-		, ico: ''
+		, ico: 'ye'
 		, info: 'و يكفينا من الحياة .. 🌼🍃 لحظة حب أحسسناها بصدق مرة واحدة .. و لو ذهبت غير آتية 🌸 '
 		, id: '9'
 }
@@ -146,7 +146,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
-		, ico: 'ma'
+		, ico: 'ir'
 		, info: 'أُإنہأُإ ضًدٍ ڱل ڜيّ يّأُإخُذٍڱ مہنہيّ .. أُإيّيّيّ حّتًى نہوُمہڱ  '
 		, id: '9'
 }
@@ -156,7 +156,7 @@ var arr = [
 		, age: 18
 		, img: 'https://iqr30.com/'
 		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
-		, ico: ''
+		, ico: 'eg'
 		, info: 'لو كانت الحياة وردة، لنجح الجميع باستنشاق رحيقها. '
 		, id: '9'
 }
@@ -166,7 +166,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpi62q6110.jpg'
-		, ico: 'ma'
+		, ico: 'iq'
 		, info: '😋😋م: التاريخ لا يُعيد نفسه، بل نحن مَن نواصل إعادتهُ وتكرار نفس الأخطاء حتّى مَلَّ منا.ع. '
 		, id: '9'
 }
@@ -182,7 +182,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpkn1i1t10.jpeg'
-		, ico: ''
+		, ico: 'iq'
 		, info: 'لدي اُسلوب استفزازي يجعلك تكرهني💔 ولدي حب،💗💗💗،،،،،،،،،،،،،،،،،،،،،،،،،،، لا تجده في احد غيري فتعلم كيف تعاملني😉 '
 		, id: '9'
 }
@@ -192,7 +192,7 @@ var arr = [
 		, age: 18
 		, img: 'https://galychat.com/'
 		, icoimg: 'sico/z1cpkn4ch010.jpg'
-		, ico: ''
+		, ico: 'ae'
 		, info: 'لا تقهر احد كي تسعد نفسك 😶.ولاتظلم نفسا لكي تبرر اخطائك 😯 حاول دائما ان تبني سعادتك 😊 بعيد عن اذية الناس ❤️ '
 		, id: '9'
 }
