@@ -13,7 +13,7 @@ var arr = [
 		name: ' ڒٍوُڒٍوُ (̲̅z̲̅)(̲̅o̲̅)(̲̅z̲̅)(̲̅o̲̅)'
 		, age: 18
 		, img: 'https://galychat.com/'
-		, icoimg: 'sico/z1cpkkm65n10.jpg'
+		, icoimg: 'https://galychat.com/sico/z1cprud8ln10.jpg'
 		, ico: ''
 		, info: 'لَدِيِّنِأّ تّأّريِّخَ #أّذّأّ ذّګر#يِّمََّسحٌ مَأّضّيِّګ الشمس🌞 والقمر🌕 كوكبان✌وكلام🔇 الناس👥 وحذائي👞 توؤمان✌ فديته'
 		, id: '9'
@@ -23,7 +23,7 @@ var arr = [
 		name: ' αиσɒɪн ﹏ √ عٌـِـِِـِـنـِِـِــــــــوُڊيــــه﹏'
 		, age: 18
 		, img: 'https://galychat.com/'
-		, icoimg: 'sico/z1cpkkq56b10.jpg'
+		, icoimg: 'https://galychat.com/sico/z1cprucec110.jpg'
 		, ico: ''
 		, info: '　　　　　　　　　 \'　　　 　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　 　　　　　　　　　　　　 　　 　　 　　　　　　　　　　　　　آنمآ آلُِعٍيوُن تحٍڪي مآ لُِآ يقٌآل'
 		, id: '9'
@@ -33,7 +33,7 @@ var arr = [
 		name: ' ❥↝❰ نـِِـِـوُر آلُـِـِِـِِِـِِـِـڛـ,ـمـْـْْـْآء ❱✿ 🎀'
 		, age: 18
 		, img: 'https://galychat.com/'
-		, icoimg: 'sico/z1cpi53o5c10.jpg'
+		, icoimg: 'https://galychat.com/sico/z1cpruchdh10.jpg'
 		, ico: ''
 		, info: 'بلاء الإنسان من اللسان'
 		, id: '9'
@@ -43,7 +43,7 @@ var arr = [
 		name: ' عــراقيــه'
 		, age: 18
 		, img: 'https://galychat.com/'
-		, icoimg: 'sico/z1cpi6kq0e10.png'
+		, icoimg: 'https://galychat.com/sico/z1cpruckkk10.jpg'
 		, ico: ''
 		, info: 'اني لا ذهب ولا ماس اني عراقيه رفعة راس  '
 		, id: '9'
@@ -99,7 +99,7 @@ var arr = [
 		name: ' ٱلَنٌےـسًےـر ٱلَذٌهےـِبّےـ ـيّےـ'
 		, age: 18
 		, img: 'https://galychat.com/'
-		, icoimg: 'sico/z1cpi5k10g10.jpg'
+		, icoimg: 'https://galychat.com/sico/z1cprudful10.jpg'
 		, ico: ''
 		, info: '…'
 		, id: '9'
