@@ -145,7 +145,7 @@ var arr = [
 		name: ' \u22C6\u2605 \u0633\u0640\u0640\u0670\u0670\u0670\u0670\u06EA\u0656\u06EB\u0640\u0670\u0640\u0670\u0670\u06EB\u0640\uFBAF\u0337\u0361\uFBA9\u062A \u0622\u0644\u062D\u0633\u0640\u0670\u0670\u0670\u0670\u06EA\u0656\u06EB\u0640\u0670\u0640\u0670\u0670\u06EB\u0640\uFBAF\u0337\u0361\uFBA9\u0640\u0646 \u2605\u22C6\xA0'
 		, age: 18
 		, img: 'https://iqr30.com/'
-		, icoimg: 'prv1.png'
+		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
 		, ico: 'ma'
 		, info: 'أُإنہأُإ ضًدٍ ڱل ڜيّ يّأُإخُذٍڱ مہنہيّ .. أُإيّيّيّ حّتًى نہوُمہڱ  '
 		, id: '9'
@@ -155,7 +155,7 @@ var arr = [
 		name: ' \u25C9\xA0\u06F0\u06EA\u06EBR\u06EA\u06EB\u06F0\u06F0\u06EA\u06EBA\u06EA\u06EB\u06F0\u06F0\u06EA\u06EBM\u06EA\u06EB\u06F0\u06F0\u06EA\u06EBY\u06EA\u06EB\u06F0 \u0695\u0627\u0645\u0640\u0640\u06D0\u0652 \u25C9\xA0'
 		, age: 18
 		, img: 'https://iqr30.com/'
-		, icoimg: 'prv1.png'
+		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
 		, ico: 'ma'
 		, info: 'لو كانت الحياة وردة، لنجح الجميع باستنشاق رحيقها. '
 		, id: '9'
