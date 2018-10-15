@@ -2,7 +2,7 @@ var arr = [
 	{
 		name: ' آنہۣۗہۧاقہۣۗہه آنہۣۗثہۧى\'ۦ \'ۦ، '
 		, age: 18
-		, img: 'http://galychat.com/sico/z1cprqeps110.jpg'
+		, img: 'https://galychat.com/dro3/z1cdofo4ft10.gif'
 		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
 		, ico: 'ma'
 		, info: '😔 آلقلۆب آلطيبهہَ مظلـوُمهہَ دآئما ، لآنهَا آسّرعْ مـٓن يفَتّح الآبوُآبْ ، وَ آوُل من يتلقّى آلضّرَبآتْ .. ! '
