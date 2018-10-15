@@ -2,8 +2,8 @@ var arr = [
 	{
 		name: ' آنہۣۗہۧاقہۣۗہه آنہۣۗثہۧى\'ۦ \'ۦ، '
 		, age: 18
-		, img: 'https://iqr30.com/'
-		, icoimg: 'sico/z1cpkkk2vj10.jpg'
+		, img: 'http://galychat.com/sico/z1cprqeps110.jpg'
+		, icoimg: 'http://galychat.com/sico/z1cprqeps110.jpg'
 		, ico: 'ma'
 		, info: '😔 آلقلۆب آلطيبهہَ مظلـوُمهہَ دآئما ، لآنهَا آسّرعْ مـٓن يفَتّح الآبوُآبْ ، وَ آوُل من يتلقّى آلضّرَبآتْ .. ! '
 		, id: '9'
