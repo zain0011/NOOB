@@ -97,6 +97,14 @@ $(`<style>div#d0 span {
 	border-left:1px solid #59D1C7;
 	border-radius:7px 0 0 15px
 }
+img.fitimg.fl.u-pic:hover{
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+transition: transform 0.2s ease-out;
+-webkit-transition: -webkit-transform 0.2s ease-out;
+-moz-transition: -moz-transform 0.2s ease-out;
+}
 </style>
 `).insertBefore('body'),
 	$("div#tlogins button.btn.btn-primary").click(function() {
